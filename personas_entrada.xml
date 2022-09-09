@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personas>
+<persona>
+	<datospersonales>
+		<nombre>persona1</nombre>
+		<apellido>apellido1</apellido>
+		<dpi>12345</dpi>
+		<edad>20</edad>
+	</datospersonales>
+	<correo>abc@gmail.com</correo>
+	<hermanos>0</hermanos>
+	<porcentaje>95.678</porcentaje>
+</persona>
+<persona>
+	<datospersonales>
+		<nombre>persona2</nombre>
+		<apellido>apellido2</apellido>
+		<dpi>67890</dpi>
+		<edad>30</edad>
+	</datospersonales>
+	<correo>def@gmail.com</correo>
+	<hermanos>2</hermanos>
+	<porcentaje>75.547</porcentaje>
+</persona>
+<persona>
+	<datospersonales>
+		<nombre>persona3</nombre>
+		<apellido>apellido3</apellido>
+		<dpi>12345</dpi>
+		<edad>40</edad>
+	</datospersonales>
+	<correo>ghi@gmail.com</correo>
+	<hermanos>4</hermanos>
+	<porcentaje>30.481</porcentaje>
+</persona>
+<persona>
+	<datospersonales>
+		<nombre>persona4</nombre>
+		<apellido>apellido4</apellido>
+		<dpi>67890</dpi>
+		<edad>50</edad>
+	</datospersonales>
+	<correo>jkl@gmail.com</correo>
+	<hermanos>6</hermanos>
+	<porcentaje>65.154</porcentaje>
+</persona>
+<persona>
+	<datospersonales>
+		<nombre>persona5</nombre>
+		<apellido>apellido5</apellido>
+		<dpi>12345</dpi>
+		<edad>60</edad>
+	</datospersonales>
+	<correo>mno@gmail.com</correo>
+	<hermanos>8</hermanos>
+	<porcentaje>42.512</porcentaje>
+</persona>
+</personas>
